@@ -11461,15 +11461,6 @@ section.resume-section .resume-section-content {
     display : none;
 }
 
-a{
-    text-decoration : none;
-    color : black;
-}
-
-.move{
-    text-align :center;
-    margin-top : 5px;
-}
 
 .food-pic {
     margin : auto;
@@ -11479,6 +11470,27 @@ a{
 #box {
     text-align : center;
 }
+
+
+#prv,
+#next
+{
+    width:30%;
+    padding: 10px;
+    margin-top : 10px;
+    background-color: transparent;
+    color: #000;
+    opacity: 0.5;
+}
+
+#next:hover,
+#prv:hover {
+    background-color: #222;
+    color: #fff;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
 
 @media (min-width: 768px) {
     section .resume-section {
@@ -11493,3 +11505,4 @@ a{
     padding-bottom: 5rem;
   }
 }
+
