@@ -78,7 +78,7 @@
 ### 기능 및 구현
  - C# 콘솔창을 이용하여 Text 파일 사용, 스터디 카페의 회원가입, 예약, 예약취소, 확인 등의 기능을 구현
  </br>
- GitHub : https://github.com/ababqw123/page
+ GitHub : https://github.com/ababqw123/team_project_studycafe
  
  
 ## API와 부트스트랩을 이용한 팀 페이지 및 개인 페이지 제작
@@ -110,7 +110,7 @@
  - 카카오 오픈 API를 이용하여 지도에 현재 위치 및 각 공항의 위치 확인 가능(로드뷰 확인 가능)
  - 방명록 제작
  </br>
- GitHub : https://github.com/ababqw123/page
+ GitHub : https://github.com/ababqw123/ECount-team3-introduction-page
  </br>
  주소 : https://ababqw123.github.io/ECount-team3-introduction-page
  
