@@ -102,6 +102,7 @@
 <img src="./img/introduce_RoadView.PNG" width="600" height="450"/>
 </br>
 
+<img src="./img/introduce_Guest.PNG" width="600" height="450"/>
 ### 기능 및 구현
  - 부트스트랩과 API를 이용하여 개인 페이지 구현 및 팀 페이지 구현
  - drag and drop과 local Storage를 이용하여 KanBan Board 구현
