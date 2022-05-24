@@ -77,16 +77,16 @@
 }
 
 body {
-  margin: 0;
-  font-family: var(--bs-body-font-family);
-  font-size: var(--bs-body-font-size);
-  font-weight: var(--bs-body-font-weight);
-  line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
-  text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
-  -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 hr {
@@ -109,11 +109,6 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   line-height: 1.2;
   color: #343a40;
 }
-
-div > span{
-  font-size :1.2rem;
-}
-
 
 h1, .h1 {
   font-size: calc(1.725rem + 5.7vw);
@@ -495,7 +490,7 @@ progress {
 }
 
 .lead {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 300;
 }
 
@@ -640,7 +635,7 @@ progress {
 .container-lg,
 .container-md,
 .container-sm {
-  width: 90%;
+  width: 100%;
   padding-right: var(--bs-gutter-x, 0.75rem);
   padding-left: var(--bs-gutter-x, 0.75rem);
   margin-right: auto;
@@ -4059,7 +4054,7 @@ textarea.form-control-lg {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -7385,14 +7380,6 @@ textarea.form-control-lg {
 
 .mb-5 {
   margin-bottom: 3rem !important;
-}
-
-.mb-6 {
-  margin-bottom: 3.6rem !important;
-}
-
-.mb-7 {
-  margin-bottom: 4.2rem !important;
 }
 
 .mb-auto {
@@ -11331,10 +11318,6 @@ h1, .h1 {
   line-height: 1;
 }
 
-div > h3{
-  font-size:2.5rem;
-}
-
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
@@ -11343,12 +11326,8 @@ p.lead {
 .subheading {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
-  font-weight: 400;
-  margin-top : 15px;
+  font-weight: 500;
   font-size: 1.5rem;
-}
-.skill{
-  font-size: 2rem;
 }
 
 #sideNav {
@@ -11356,16 +11335,13 @@ p.lead {
   padding-right: 1rem;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 1500;
+  font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  font-size : 1.2rem;
 }
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
-
-
 
 @media (min-width: 992px) {
   #sideNav {
@@ -11377,7 +11353,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 20em;
+    width: 17rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -11388,7 +11364,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.3rem solid rgba(255, 255, 255, 0.3);
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -11428,7 +11404,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 section.resume-section {
@@ -11442,58 +11418,10 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
-  height : 100vh;
 }
-
-.write{
-  font-size : 1.2rem;
-}
-
-
-.content-name {
-  font-size : 80px;
-}
-
-#map {
-    width: 60%;
-    height: 60vh;
-    margin: 0 auto 30px;
-    display : none;
-}
-
-
-.food-pic {
-    margin : auto;
-
-}
-
-#box {
-    text-align : center;
-}
-
-
-#prv,
-#next
-{
-    width:30%;
-    padding: 10px;
-    margin-top : 10px;
-    background-color: transparent;
-    color: #000;
-    opacity: 0.5;
-}
-
-#next:hover,
-#prv:hover {
-    background-color: #222;
-    color: #fff;
-    opacity: 0.6;
-    cursor: pointer;
-}
-
 
 @media (min-width: 768px) {
-    section .resume-section {
+  section.resume-section {
     min-height: 100vh;
   }
 }
@@ -11505,4 +11433,3 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-
