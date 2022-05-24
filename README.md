@@ -47,7 +47,9 @@
 
 ### 기능 및 구현
  - HTML, CSS, JavaScript 연습을 위하여, 카드형 페이지, 기업형 페이지, 일반 페이지 등으로 나누어 페이지 형태 클론 코딩
+ </br>
  GitHub : https://github.com/ababqw123/page
+ </br>
  주소 : https://jaeyeong-page.netlify.app
 
 
@@ -75,6 +77,7 @@
 
 ### 기능 및 구현
  - C# 콘솔창을 이용하여 Text 파일 사용, 스터디 카페의 회원가입, 예약, 예약취소, 확인 등의 기능을 구현
+ </br>
  GitHub : https://github.com/ababqw123/page
  
  
@@ -98,3 +101,13 @@
 
 <img src="./img/introduce_RoadView.PNG" width="600" height="450"/>
 </br>
+
+### 기능 및 구현
+ - 부트스트랩과 API를 이용하여 개인 페이지 구현 및 팀 페이지 구현
+ - drag and drop과 local Storage를 이용하여 KanBan Board 구현
+ - 카카오 오픈 API를 이용하여 지도에 현재 위치 및 각 공항의 위치 확인 가능(로드뷰 확인 가능)
+ - 방명록 제작
+ </br>
+ GitHub : https://github.com/ababqw123/page
+ 주소 : https://ababqw123.github.io/ECount-team3-introduction-page
+ 
