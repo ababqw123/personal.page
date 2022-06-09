@@ -27,6 +27,7 @@
   - HTML, CSS, JavaScript를 이용한 웹 클론코딩
   - C# 스터디 카페 관리 프로그램
   - API와 부트스트랩을 이용한 팀 페이지 및 개인 페이지 제작
+  - Typescript, Node.js, express를 이용한 로그인 페이지 및 회원가입/목록 조회
 
 ## 웹 클론코딩
 
