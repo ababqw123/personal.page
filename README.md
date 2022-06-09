@@ -116,3 +116,29 @@
  </br>
  주소 : https://ababqw123.github.io/ECount-team3-introduction-page
  
+ 
+ ## Typescript, Node.js, express를 이용한 로그인 페이지 및 회원가입/목록 조회
+
+### 로그인
+<img src="./img/login.PNG" width="800" height="450"/>
+</br>
+
+### 로그인 성공(메인페이지)
+<img src="./img/main.PNG" width="800" height="450"/>
+</br>
+
+### 회원가입
+<img src="./img/register.PNG" width="800" height="450"/>
+</br>
+
+### 회원명단
+<img src="./img/list.PNG" width="800" height="450"/>
+</br>
+
+### 기능 및 구현
+ - typescript와 node,js를 사용한 회원가입/로그인/회원목록 페이지 구현
+ - Promise chaining을 사용하여 로그인 및 회원가입 정책 구현(로그인 기간/회사코드 등)
+ </br>
+ GitHub : https://github.com/ababqw123/ECount-team3-introduction-page
+ </br>
+ 주소 : https://ababqw123.github.io/ECount-team3-introduction-page
