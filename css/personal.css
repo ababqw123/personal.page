@@ -2,18 +2,13 @@ a {
     text-decoration: none;
 }
 
-#project_1 {
+#project_1, #project_2,
+#project_3, #project_4
+{
     padding : 5% 5%;
     margin : 10% 0;
 }
-#project_2 {
-    padding : 5% 5%;
-    margin : 10% 0;
-}
-#project_3 {
-    padding : 3% 5%;
-    margin : 10% 0;
-}
+
 
 .img {
     margin : 5px;
