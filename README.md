@@ -139,4 +139,4 @@
  - typescript와 node,js, Json을 사용한 회원가입/로그인/회원목록 페이지 구현
  - Promise chaining을 사용하여 로그인 및 회원가입 정책 구현(로그인 기간/회사코드 등)
  </br>
- GitHub : [https://github.com/ababqw123/ECount-team3-introduction-page](https://github.com/ababqw123/loginpage/tree/master)
+ GitHub : https://github.com/ababqw123/loginpage/
